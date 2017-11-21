@@ -1,4 +1,21 @@
-# Router
+# angular demo
+
+2017-11-21
+Route 
+
+#### How to start this project
+```javascript
+npm install
+npm start
+``` 
+
+#### project branch
+branch | 备注
+---- | ------ 
+test1 | 路由传参和辅助路由
+test12 | 路由守卫
+
+##### cli info
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
