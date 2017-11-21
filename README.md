@@ -13,7 +13,7 @@ npm start
 branch | 备注
 ---- | ------ 
 test1 | 路由传参和辅助路由
-test12 | 路由守卫
+test2 | 路由守卫
 test3 | resolve守卫
 
 ##### cli info
