@@ -13,7 +13,7 @@ npm start
 branch | 备注
 ---- | ------ 
 test1 | 路由传参和辅助路由
-test12 | 路由守卫
+test2 | 路由守卫
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
